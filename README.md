@@ -30,4 +30,4 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - Flexbox
 - Vanilla JS
 
-### What I learned
+
